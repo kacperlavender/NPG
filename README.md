@@ -1,1 +1,1 @@
-edycja 
+edycja testowa pliku
