@@ -1,1 +1,1 @@
-zmiana pliku do zadania 6
+edycja 
